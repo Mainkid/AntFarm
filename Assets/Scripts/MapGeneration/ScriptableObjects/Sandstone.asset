@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd0d69cbff4d0d42bb1661f8b7b4b4c, type: 3}
+  m_Name: Sandstone
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 21300000, guid: 901c2f4088692e7458fcba77a79ca9fa, type: 3}
+  - {fileID: 21300000, guid: c52124230ec60c748b1bc7f0080c2235, type: 3}
+  - {fileID: 21300000, guid: 4610bd11758671c4b832d061c045d604, type: 3}
+  Particle: {fileID: 21300000, guid: 787854be9670b36459f630b0affc3a03, type: 3}
+  Name: Sandstone

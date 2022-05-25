@@ -1,0 +1,47 @@
+{
+    "LoaderAntBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 499996,
+                "file_path": "results\\ppo\\LoaderAntBehaviour\\LoaderAntBehaviour-499996.onnx",
+                "reward": 7.052745388526666,
+                "creation_time": 1628438607.7173367,
+                "auxillary_file_paths": [
+                    "results\\ppo\\LoaderAntBehaviour\\LoaderAntBehaviour-499996.pt"
+                ]
+            },
+            {
+                "steps": 999980,
+                "file_path": "results\\ppo\\LoaderAntBehaviour\\LoaderAntBehaviour-999980.onnx",
+                "reward": 10.024644497292382,
+                "creation_time": 1628439180.9278107,
+                "auxillary_file_paths": [
+                    "results\\ppo\\LoaderAntBehaviour\\LoaderAntBehaviour-999980.pt"
+                ]
+            },
+            {
+                "steps": 1400082,
+                "file_path": "results\\ppo\\LoaderAntBehaviour\\LoaderAntBehaviour-1400082.onnx",
+                "reward": 10.13584575375307,
+                "creation_time": 1628439770.390393,
+                "auxillary_file_paths": [
+                    "results\\ppo\\LoaderAntBehaviour\\LoaderAntBehaviour-1400082.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1400082,
+            "file_path": "results\\ppo\\LoaderAntBehaviour.onnx",
+            "reward": 10.13584575375307,
+            "creation_time": 1628439770.390393,
+            "auxillary_file_paths": [
+                "results\\ppo\\LoaderAntBehaviour\\LoaderAntBehaviour-1400082.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.9.0+cpu"
+    }
+}

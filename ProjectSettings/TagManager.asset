@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - Food
+  - badFood
+  - ground
+  - agent
+  - food
+  - Anthill
+  - Predator
+  - Ant
+  - Soil
+  - Sand
+  - Stone
+  - Sandstone
+  - Clay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Hedgehog
+  - GameLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AntLayer
+    uniqueID: 989338613
+    locked: 0
+  - name: Food
+    uniqueID: 4165482435
+    locked: 0
+  - name: WarFog
+    uniqueID: 3190711793
+    locked: 0
